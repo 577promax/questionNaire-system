@@ -7,9 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>6666</code> and save to reload.
-        </p>
+        <p>我的第一个项目</p>
         <a href="https://reactjs.org">Learn React</a>
       </header>
     </div>
